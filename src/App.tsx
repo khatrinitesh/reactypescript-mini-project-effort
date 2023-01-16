@@ -1,4 +1,4 @@
-import CustomApp from './linkedin/pushpendratripathi/props/1/app';
+import CustomApp from '../src/linkedin/pushpendratripathi/searchfilter/1/app';
 
 
 
