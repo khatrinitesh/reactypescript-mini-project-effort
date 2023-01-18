@@ -1,5 +1,4 @@
-import CustomApp from '../src/linkedin/pushpendratripathi/passcssstylesasprops/1/app';
-
+import CustomApp from '../src/linkedin/pushpendratripathi/passobjectaspropstocomponents/1/app';
 
 
 function App() {
