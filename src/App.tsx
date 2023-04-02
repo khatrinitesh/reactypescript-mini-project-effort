@@ -1,5 +1,5 @@
-import CustomApp from '../src/linkedin/pushpendratripathi/passobjectaspropstocomponents/1/app';
-
+import CustomApp from './tricks/map/1/app'
+import './App.css';
 
 function App() {
   return (
